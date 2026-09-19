@@ -1,0 +1,7 @@
+{
+  "name": "OppMatch",
+  "description": "Turning opportunity access into a guided pathway with AI matching, eligibility analysis, and application preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
